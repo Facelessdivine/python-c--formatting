@@ -1,0 +1,5 @@
+BlktestConfiguration.cs
+BsanalisisConfiguration.cs
+BsanalisisdetalleConfiguration.cs
+BsanticoagulanteConfiguration.cs
+BsclasificacionpreguntasConfiguration.cs
